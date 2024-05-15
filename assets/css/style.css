@@ -6,7 +6,7 @@ body {
     background-color: #beb6d1;
 }
 
-.topnav {
+header {
     background-color: #7e68b6;
     padding: 10px;
 }
@@ -31,7 +31,8 @@ body {
     background: #362855;
   }
 
-  .contacts h1 {
-    size: 12px;
+  footer {
+    background-color: #beb6d1;
+    padding: 2px;
   }
 
