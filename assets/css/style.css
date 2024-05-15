@@ -1,0 +1,37 @@
+p, h1, h2 {
+    color: white;
+}
+
+body {
+    background-color: #beb6d1;
+}
+
+.topnav {
+    background-color: #7e68b6;
+    padding: 10px;
+}
+
+#profile {
+    border: 1px solid #ddd;
+    border-radius: 4px;
+    padding: 5px;
+    width: 150px;
+  }
+
+#info {
+    border-radius: 4px;
+    padding: 20px;
+    width: 150px;
+    float: right;
+    margin-right: 230px;
+  }
+
+  .container {
+    padding: 10px;
+    background: #362855;
+  }
+
+  .contacts h1 {
+    size: 12px;
+  }
+
